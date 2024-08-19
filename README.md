@@ -1,4 +1,4 @@
-![MasterHead]()
+<--![MasterHead]()--->
 ![](https://komarev.com/ghpvc/?username=Ahmet-1230&color=blue)
 <h1 align="center">Hi 👋, I'm Ahmet Burak</h1>
 <h3 align="center">A New Front-end Web Developer</h3>
