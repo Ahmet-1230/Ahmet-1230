@@ -74,4 +74,4 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Ahmet-1230&color=blue)
+![](https://komarev.com/ghpvc/?username=Ahmet-1230&color=blue&align="center)
