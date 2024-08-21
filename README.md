@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Burak+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="https://twitter.com/ahmetdgncl" target="_blank">
     <img
@@ -58,8 +59,7 @@
       width="40"
       height="40"/>
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer">
     <img
@@ -76,5 +76,7 @@
       height="40"/>
   </a>
 </p>
+
+<p>ilk projem<a href="https://ahmet-1230.github.io/Survey-Form/" target="_blank">Tıkla</a></p>
 
 ![](https://komarev.com/ghpvc/?username=Ahmet-1230&color=blue&align="center")
