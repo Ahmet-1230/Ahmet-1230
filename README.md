@@ -92,5 +92,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmet-1230&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-1230&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ahmet-1230&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Ahmet-1230&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
