@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<!--<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -77,7 +77,7 @@
   </a>
 </p>
 
-<p>ilk projem<a href="https://ahmet-1230.github.io/Survey-Form/" target="_blank">Tıkla</a></p>
+<p>ilk projem<a href="https://ahmet-1230.github.io/Survey-Form/" target="_blank">Tıkla</a></p> -->
 
 ![](https://komarev.com/ghpvc/?username=Ahmet-1230&color=blue&align="center")
 
